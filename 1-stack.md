@@ -35,9 +35,10 @@ print(stack)
 ```
 
 ## Efficiency
-Push | Pop
+Operations | Complexity
  --- | ---
-O(1) | O(1)
+ Pop | O(1)
+Push | O(1)
 Since we do not run into any loops in the push or pop methods, the effiency is O(1).
 
 

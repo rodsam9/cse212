@@ -6,7 +6,7 @@ class Stack:
 
     def push(self, item):
         # Add code here
-        return self.stack.append(item)
+        self.stack.append(item)
 
     def pop(self):
         # Add code here
