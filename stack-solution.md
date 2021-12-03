@@ -20,3 +20,4 @@ class Stack:
     print(self.stack) # Results ['monkey', 'bird']
 
 ```
+Go back to [Stack Page](1-stack.md)!

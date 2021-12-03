@@ -95,6 +95,6 @@ print(remove_odd(s1)) # Should display {10, 20}
 print(remove_odd(s2)) # Should display {20, 30}
 print(remove_even(s3)) # Should display {10, 20, 40}
 ```
-Solution to [Problem To Solve](solutions/set-solution.md)
+Solution to [Problem To Solve](set-solution.md)
 
 Go back to [Welcome Page](0-welcome.md)!

@@ -24,3 +24,5 @@ print(remove_odd(s1)) # Should display {10, 20}
 print(remove_odd(s2)) # Should display {20, 30}
 print(remove_even(s3)) # Should display {10, 20, 40}
 ```
+
+Go back to [Sets Page](2-set.md)!

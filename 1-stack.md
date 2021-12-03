@@ -108,7 +108,7 @@ class Stack:
     print(self.stack)
 
 ```
-Solution to [Problem To Solve](solutions/stack-solution.md)
+Solution to [Problem To Solve](stack-solution.md)
 
 
 Go back to [Welcome Page](0-welcome.md)!
