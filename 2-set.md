@@ -2,7 +2,7 @@
 
 ## Introduction
 A set is one of 4 built-in data types in Python used to store collections of data, the other 3 are List, Tuple, and Dictionary, all with different qualities and usage. Sets are used to store multiple items in a single variable.
-Sets are also unchangeable, unordered, and unindexed.
+Sets are unordered, unindexed, and also the values stored in sets are unchangeable.
 
 ![Sets](images/set-operations.png)
 ## How To Create A Set
@@ -40,6 +40,12 @@ set1.discard('cow') # Discards cow from set1
 # set1 = {5, 3}
 
 ```
+## Efficiency
+Operations | Complexity
+ --- | ---
+ Add | O(1)
+Remove | O(1)
+There is a constant runtime complexity, so on average the effiency is O(1).
 ## Example / Practice
 Go through each line of this practice problem and try to keep track of what's being added or removed from the set. Don't get fooled by duplicates, remember that when sets are combined, duplicates will be removed.
 
